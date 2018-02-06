@@ -5,9 +5,10 @@
 		table {  
 		    color: #333;
 		    font-family: Helvetica, Arial, sans-serif;
-		    width: 640px; 
+		    width: 1000px; 
 		    border-collapse: 
 		    collapse; border-spacing: 0; 
+		    margin:auto;
 		}
 		
 		td, th {  
@@ -23,7 +24,6 @@
 		
 		td {  
 		    background: #FAFAFA;
-		    text-align: center;
 		}
 	</style>
 </head>
@@ -31,7 +31,7 @@
 	<div style="text-align:center;">
 		<h2>JSP Tutorials</h2>
 	</div>
-	<table align="center">
+	<table>
 		<tr>
 			<th>Lesson</th>
 			<th>Description</th>
@@ -74,13 +74,13 @@
 		</tr>
 		<tr>
 			<td>Including Files</td>
-			<td></td>
+			<td>included header.html and footer.html</td>
 			<td><a href="including-files.jsp">Check</a></td>
 		</tr>
 		<tr>
-			<td>Hello World</td>
-			<td></td>
-			<td><a href="helloworld.jsp">Check</a></td>
+			<td>Forms</td>
+			<td>Form submit to JSP page</td>
+			<td><a href="form-test.jsp">Check</a></td>
 		</tr>
 	</table>		
 </body>
