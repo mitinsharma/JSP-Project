@@ -63,19 +63,19 @@
 			<td><a href="class-test.jsp">Check</a></td>
 		</tr>
 		<tr>
-			<td>Hello World</td>
-			<td></td>
-			<td><a href="helloworld.jsp">Check</a></td>
+			<td>Built-In Server Objects</td>
+			<td>describe few built in server objects</td>
+			<td><a href="server-objects.jsp">Check</a></td>
 		</tr>
 		<tr>
-			<td>Hello World</td>
-			<td></td>
-			<td><a href="helloworld.jsp">Check</a></td>
+			<td>Built-in Objects</td>
+			<td>Code for Build-In objects</td>
+			<td><a href="builtin-objects-test.jsp">Check</a></td>
 		</tr>
 		<tr>
-			<td>Hello World</td>
+			<td>Including Files</td>
 			<td></td>
-			<td><a href="helloworld.jsp">Check</a></td>
+			<td><a href="including-files.jsp">Check</a></td>
 		</tr>
 		<tr>
 			<td>Hello World</td>
